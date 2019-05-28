@@ -505,7 +505,7 @@ footer .widget i {
 footer{
    margin-top:40px;
    padding: 20px; 
-   background: black;
+   background: #12192B;
 }
 
 footer h3 {
@@ -534,7 +534,7 @@ footer h3 {
 .copyright {
     color: #fff;
     padding: 20px 0px 10px 0px;
-    background-color: rgb(23, 23, 23);
+    background-color: #12192B;
 }
 
 /*
