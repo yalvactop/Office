@@ -15,7 +15,7 @@ License URI:http://www.gnu.org/licenses/gpl-2.0.html
 * Global
 * ==========================================================================
 */
-.border { border-width: 25px; border-color: #DAA520; border-style: solid; }
+.border { border-width: 7px; border-color: #DAA520; border-style: solid; }
 
 .btn-primary{
   margin-left: 20px;
@@ -670,7 +670,7 @@ footer h3 {
 .blockquote-box.blockquote-info{border-color:#46B8DA}
 .blockquote-box.blockquote-info .square{background-color:#5BC0DE;color:#FFF}
 .blockquote-box.blockquote-warning{border-color:#EEA236}
-.blockquote-box.blockquote-warning .square{background-color:#F0AD4E;color:#FFF}
+.blockquote-box.blockquote-warning .square{background-color:#fff;color:#FFF}
 .blockquote-box.blockquote-danger{border-color:#D43F3A}
 .blockquote-box.blockquote-danger .square{background-color:#D9534F;color:#FFF}
 
