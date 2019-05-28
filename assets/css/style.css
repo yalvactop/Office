@@ -154,7 +154,7 @@ body {
 }
 
 a {
-    color: #55CBD2;
+    color: #DAA520;
     text-decoration: none;
     -o-transition: all .3s;
     -moz-transition: all .3s;
@@ -524,11 +524,11 @@ footer h3 {
 }
 
 #social-icons .btn-group {
-    color: #466baf;
+    color: #fff;
     margin-right: 15px;
 }
 #social-icons .btn-group:hover {
-    color: #ffffff;
+    color: #DAA520;
 }
 
 .copyright {
