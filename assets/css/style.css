@@ -228,7 +228,7 @@ address {
 * ==========================================================================
 */
 .active{
-  background:#74B9B9 !important;
+  background:#466BAF !important;
   color: white;
 }
 .navbar {
@@ -750,4 +750,18 @@ footer h3 {
   .carousel-caption .carousel-title {
     font-size: 14px;
   }
+}
+
+.carousel-item {
+  height: 65vh;
+  min-height: 350px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.images {
+  width:100%;
 }
