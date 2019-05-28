@@ -228,7 +228,7 @@ address {
 * ==========================================================================
 */
 .active{
-  background:#151C2E !important;
+  background: white !important;
   color: white;
 }
 .navbar {
