@@ -329,7 +329,7 @@ address {
         width: 170px;
         margin-top:-41px;
         margin-top: -41px;
-        position: absolute;
+        position: fixed;
         font-size: 37px;
      } 
  }  
