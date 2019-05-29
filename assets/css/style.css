@@ -232,13 +232,13 @@ address {
 .active{
   background: white !important;
   color: white;
-  position: fixed;
 }
 .navbar {
   font-weight: bold;
   padding-top: 15px;
   padding-bottom: 15px;
   margin-bottom: 0;
+  position: absolute;
 }
 /*
 * ==========================================================================
