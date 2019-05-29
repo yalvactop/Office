@@ -248,6 +248,7 @@ address {
   padding: 10px 15px;
   margin: 5px 5px;
   border-radius: 4px;
+  position: fixed;
 }
 /*
 * ==========================================================================
@@ -329,7 +330,7 @@ address {
         width: 170px;
         margin-top:-41px;
         margin-top: -41px;
-        position: fixed;
+        position: absolute;
         font-size: 37px;
      } 
  }  
