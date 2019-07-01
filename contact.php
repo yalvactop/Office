@@ -10,5 +10,6 @@ if (isset($_POST['submit'])) {
 	$subject = "Ad Soyad: ".$name;
 
 	mail($mail_to, $subject, $message, $headers);
-	header("Location: contact.html?sent")
+	header("Location: contact.html")
 }
+?>
