@@ -4,6 +4,7 @@ if (isset($_POST['submit'])) {
 	$fullname = $_POST['fullname'];
 	$email = $_POST['email'];
 	$message = $_POST['message'];
+	
 
 	$mail_to = "info@gungoravukatlik.com";
 	$headers = "Gonderen email: ".email;
